@@ -11,7 +11,8 @@ variable_name = "How many days have you been practicing Python?"
 # We can assign different data TYPES to a variable
 
 # What data types exist again?
-# In python we have a lot of data types: booleans, int, float, str, list, tuple, dict are the ones we'll cover for now. Let's look at them in detail!
+# In python we have a lot of data types: booleans, int, float, str, list, tuple, dict are the ones we'll cover for now.
+# Let's look at them in detail!
 
 # Booleans are simply True and False statements
 
@@ -19,8 +20,9 @@ a_boolean = False
 
 a_more_positive_boolean = True
 
-# In Python if we talk about numbers we differentiate between integers (int) and floats (and complex numbers but we won't use these today). 
-# Integers don't have a decimal (e.g. the numbers 1, 10, and 125 are integers) while floats can theoretically hold an infinite amount of decimals (e.g. 3.114159)
+# In Python if we talk about numbers we differentiate between integers (int) and floats (and complex numbers but we
+# won't use these today). Integers don't have a decimal (e.g. the numbers 1, 10, and 125 are integers) while floats
+# can theoretically hold an infinite amount of decimals (e.g. 3.114159)
 
 # Here's an example of an int
 an_integer = 1
@@ -63,7 +65,8 @@ last_item_of_a_list = a_list[-1]
 
 a_tuple = (0, 1) 
 
-# tuples are pretty similar to lists but you can't add elements to them (in fancy terms, they are immutable). You denote a tuple with round or normal brackets '()'
+# tuples are pretty similar to lists but you can't add elements to them (in fancy terms, they are immutable).
+# You denote a tuple with round or normal brackets '()'
 # This makes them more efficient. We don't use tuples super often but you should know them!
 
 # The last data type for today is a dict, short for dictionary. They are super cool and we use them a lot for complex data storage:
@@ -74,6 +77,7 @@ a_dict = {
     "birthday": "07-07-2001",
     "nationality": "swiss",
 }
+
 
 # We talked about the if-elif-else construct, here it is again:
 

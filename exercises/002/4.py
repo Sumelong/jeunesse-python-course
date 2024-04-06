@@ -1,9 +1,8 @@
-# Calculate 3 times the 11th power of the difference between two and five. Assign this number to the result variable
+# Calculate 3 times the 11th power of the difference between two and five.
+# Assign this number to the result variable
 
 result = 0
-
-
-
+result = 3*((2-5)**11)
 
 
 
